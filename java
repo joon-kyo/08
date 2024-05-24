@@ -19,7 +19,8 @@ public static void main(String[] args) {
 	empService.insert(emp); //한명 사원 추가  
 	
 	empService.select(); 
-
+// 	new_branch 실험
+	
 	
 	
 }
